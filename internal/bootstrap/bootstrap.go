@@ -3,18 +3,18 @@ package bootstrap
 import (
 	log "unknwon.dev/clog/v2"
 
-	"github.com/vidar-team/Cardinal/internal/asteroid"
-	"github.com/vidar-team/Cardinal/internal/conf"
-	"github.com/vidar-team/Cardinal/internal/dbold"
-	"github.com/vidar-team/Cardinal/internal/dynamic_config"
-	"github.com/vidar-team/Cardinal/internal/game"
-	"github.com/vidar-team/Cardinal/internal/install"
-	"github.com/vidar-team/Cardinal/internal/livelog"
-	"github.com/vidar-team/Cardinal/internal/misc"
-	"github.com/vidar-team/Cardinal/internal/misc/webhook"
-	"github.com/vidar-team/Cardinal/internal/route"
-	"github.com/vidar-team/Cardinal/internal/store"
-	"github.com/vidar-team/Cardinal/internal/timer"
+	"github.com/1076736617/Cardinal/internal/asteroid"
+	"github.com/1076736617/Cardinal/internal/conf"
+	"github.com/1076736617/Cardinal/internal/dbold"
+	"github.com/1076736617/Cardinal/internal/dynamic_config"
+	"github.com/1076736617/Cardinal/internal/game"
+	"github.com/1076736617/Cardinal/internal/install"
+	"github.com/1076736617/Cardinal/internal/livelog"
+	"github.com/1076736617/Cardinal/internal/misc"
+	"github.com/1076736617/Cardinal/internal/misc/webhook"
+	"github.com/1076736617/Cardinal/internal/route"
+	"github.com/1076736617/Cardinal/internal/store"
+	"github.com/1076736617/Cardinal/internal/timer"
 )
 
 func init() {
