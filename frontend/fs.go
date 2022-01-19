@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"strings"
 
-	challenger "github.com/vidar-team/Cardinal_frontend/dist"
-	manager "github.com/vidar-team/Cardinal_manager_frontend/dist"
+	challenger "github.com/1076736617/Cardinal_frontend/dist"
+	manager "github.com/1076736617/frontend-manager/dist"
 )
 
 type frontendFS struct {
